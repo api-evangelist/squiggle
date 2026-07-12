@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://api.squiggle.com.au
 common:
+  - type: DomainSecurity
+    url: security/squiggle-domain-security.yml
   - type: Website
     url: https://api.squiggle.com.au
   - type: PublicAPIsListing
