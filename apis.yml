@@ -40,7 +40,8 @@ apis:
   - name: Squiggle
     description: "Fixtures, results and predictions for Australian Football League matches"
     humanURL: https://api.squiggle.com.au
-    tags:
+    tags: []
+    tags_raw:
       - Sports And Fitness
     properties:
       - type: Documentation
